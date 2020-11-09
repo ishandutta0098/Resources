@@ -19,3 +19,6 @@
 [TDS - Bayes’ Theorem and Movie Review Analysis](https://towardsdatascience.com/bayes-theorem-and-movie-review-analysis-fffae437a56)
 - Multinominal Naive Bayes
 - With Code.
+
+[Naive Bayes Classifier From Scratch in Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+- With Code
